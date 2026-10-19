@@ -1,0 +1,10 @@
+{
+  "name": "Candy Pop Adventure — Epic Edition",
+  "short_name": "Candy Pop",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#9cecff",
+  "theme_color": "#ff69b4",
+  "description": "An original candy matching puzzle adventure.",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
